@@ -1,4 +1,4 @@
-num1 = 1.5
+num1 = 6.5
 num2 = 9.5
 
 # Add two numbers
